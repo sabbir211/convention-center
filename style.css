@@ -12,3 +12,8 @@ li i {
     background-color: #f496d283;
     color: #3F87F5;
 }
+
+#highlighted-card {
+    transform: translateY(-2.5rem);
+    box-shadow: 0px 0px 22px 5px gray;
+}
